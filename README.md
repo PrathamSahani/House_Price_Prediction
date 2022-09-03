@@ -3,7 +3,7 @@ This is house_rent_prediction system through which you can predict the house ren
 so let's i described my project step by step ::
 step - 1
 this is the home page of my project which is i made by django and html (css) its look is very attractive as you can see in picture and also on left corner you can see the home logo and also i added welcome text for user who use ,y project house rent / price prediction:  
-![Screenshot (203)](https://user-images.githubusercontent.com/106865923/188267320-40aa034d-04bd-4855-82f6-04d3ce4952ef.png)
+![Screenshot (208)](https://user-images.githubusercontent.com/106865923/188267320-40aa034d-04bd-4855-82f6-04d3ce4952ef.png)
 step - 2 
 when you click ok button which is show on home u enter on this page this is the main page which help you for predict house price prediction :
 ![Screenshot (205)](https://user-images.githubusercontent.com/106865923/188267354-4badc3a2-ce93-461d-8b73-1b84e0a85e44.png)
